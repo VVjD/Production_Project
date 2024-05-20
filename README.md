@@ -10,31 +10,7 @@
 
 <br>
 
-## 순서도
-
-<p align="center">
-<img width="80%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
-</p>
-
-<p align="center>
-<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
-</p>
-
-<p align="center>
-<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
-</p>
-
-## ERD
-
-<p align="center">
-<img width="80%" alt="ㄸ" src="https://github.com/Juub2/Production_Project/assets/128907052/99cecc8b-982d-4285-b1d9-8cec8009f70d">
-</p>
-
-<p align="center>
-<img width="70%" alt="ERD" src="https://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfd">
-</p>
-
-## 기술 스택
+## 개발 환경
 
 **IDE**   
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
@@ -46,6 +22,21 @@
 **Collaboration Tools**  
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+
+<br>
+
+## 순서도
+
+<p align="center">
+<img width="80%" alt="순서도" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
+</p>
+
+<br>
+
+## ERD
+
+<p align="center">
+<img width="80%" alt="ㄸ" src="https://github.com/Juub2/Production_Project/assets/128907052/99cecc8b-982d-4285-b1d9-8cec8009f70d">
 </p>
 
 <br>
