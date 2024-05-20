@@ -1,7 +1,3 @@
-##**
-
-
-
 # 🏭 [Java] 자동차 제조업 통합 관리 시스템
 
 > 자동차를 생산하고 유통하는 과정을 효율적으로 관리하기 위한 프로그램으로 부서와 직급을 나눠 기능을 수행합니다. 회사 내부의 전산업무인 회원관리, 인사관리, 기자재관리 기능을 제공합니다.
@@ -14,19 +10,11 @@
 
 <br>
 
-## 💫 순서도
+## 순서도
 
-<div align="center">
+## ERD
 
-<br>
-
-## 💫 ERD
-
-<div align="center">
-
-<br>
-
-## 💫 기술 스택
+## 기술 스택
 
 **IDE** 
 
@@ -34,9 +22,11 @@
 
 **SKILL**
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 
-## 💫 상세 기능
+<br>
+
+## 상세 기능
 
 **관리자**
 
@@ -66,7 +56,14 @@
 
 2. 주문서 수정 및 삭제
 
-## 💫 팀원 소개
+<br>
+
+## 팀원 소개
+
+| 송성혜                                                                                         | 윤준섭                                                                                        | 지성근                                                                                        | 정혜정                                                                                         |
+|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/128437470?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/72927363?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> |
+| [@SSong-sh](https://github.com/SSong-sh)                                                    | [@jjjub](https://github.com/jjjub)                                                         | [@sungken](https://github.com/sungken)                                                     | [@VVjD](https://github.com/VVjD)                                                            |
 
 ### 송성혜
 
