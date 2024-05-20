@@ -13,7 +13,7 @@
 ## 순서도
 
 <p align="center">
-<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
+<img width="80%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
 </p>
 
 <p align="center>
@@ -27,7 +27,7 @@
 ## ERD
 
 <p align="center">
-<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfdhttps://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfd">
+<img width="80%" alt="ㄸ" src="https://github.com/Juub2/Production_Project/assets/128907052/99cecc8b-982d-4285-b1d9-8cec8009f70d">
 </p>
 
 <p align="center>
@@ -36,10 +36,10 @@
 
 ## 기술 스택
 
-**IDE** 
+**IDE**   
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
 
-**SKILL**
+**SKILL**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 
 </p>
