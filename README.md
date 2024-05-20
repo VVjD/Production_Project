@@ -12,7 +12,11 @@
 
 ## 순서도
 
+<img alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
+
 ## ERD
+
+<img alt="ERD" src="https://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfd">
 
 ## 기술 스택
 
@@ -60,11 +64,9 @@
 
 ## 팀원 소개
 
-# 
-
-| 송성혜                                                                                         | 윤준섭                                                                                        | 지성근                                                                                        | 정혜정                                                                                         |
-|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-|[<img src="https://avatars.githubusercontent.com/u/128437470?v=4" width="150" height="150"/> <br> @SSong-sh](https://github.com/SSong-sh)                                                    | [<img src="https://avatars.githubusercontent.com/u/72927363?v=4" width="150" height="150"/> <br> @jjjub](https://github.com/jjjub)                                                         | [<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> <br> @sungken](https://github.com/sungken)                                                     | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> <br> @VVjD](https://github.com/VVjD)                                                            |
+| 송성혜                                                                                                                                       | 윤준섭                                                                                                                                | 지성근                                                                                                                                    | 정혜정                                                                                                                               |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| [<img src="https://avatars.githubusercontent.com/u/128437470?v=4" width="150" height="150"/> <br> @SSong-sh](https://github.com/SSong-sh) | [<img src="https://avatars.githubusercontent.com/u/72927363?v=4" width="150" height="150"/> <br> @jjjub](https://github.com/jjjub) | [<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> <br> @sungken](https://github.com/sungken) | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> <br> @VVjD](https://github.com/VVjD) |
 
 ### 송성혜
 
