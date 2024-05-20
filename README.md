@@ -11,11 +11,25 @@
 <br>
 
 ## 순서도
+
+<p align="center">
+<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
+</p>
+
+<p align="center>
+<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
+</p>
+
 <p align="center>
 <img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
 </p>
 
 ## ERD
+
+<p align="center">
+<img width="70%" alt="순서" src="https://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfdhttps://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfd">
+</p>
+
 <p align="center>
 <img width="70%" alt="ERD" src="https://github.com/Juub2/Production_Project/assets/128907052/a431d023-7303-4956-983f-fc4bc037ecfd">
 </p>
@@ -27,6 +41,7 @@
 
 **SKILL**
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+
 </p>
 
 <br>
