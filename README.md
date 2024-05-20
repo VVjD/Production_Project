@@ -42,6 +42,10 @@
 **SKILL**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 
+
+**Collaboration Tools**  
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 </p>
 
 <br>
