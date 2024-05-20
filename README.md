@@ -21,12 +21,14 @@
 ## 기술 스택
 
 **IDE** 
-
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+<p align="center>
+<img width="70%" src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+</p>
 
 **SKILL**
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<p align="center>
+<img width="70%" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+</p>
 
 <br>
 
