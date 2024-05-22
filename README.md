@@ -76,9 +76,9 @@
 ## 팀원 소개
 <div align="center">
   
-| 송성혜                                                                                                                                       | 윤준섭                                                                                                                                | 지성근                                                                                                                                    | 정혜정                                                                                                                               |
+| **송성혜**                                                                                                                                       | **윤준섭**                                                                                                                                | **정혜정**                                                                                                                                     | **지성근**                                                                                                                              |
 |:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| [<img src="https://avatars.githubusercontent.com/u/128437470?v=4" width="150" height="150"/> <br> @SSong-sh](https://github.com/SSong-sh) | [<img src="https://avatars.githubusercontent.com/u/72927363?v=4" width="150" height="150"/> <br> @jjjub](https://github.com/jjjub) | [<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> <br> @sungken](https://github.com/sungken) | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> <br> @VVjD](https://github.com/VVjD) |
+| [<img src="https://avatars.githubusercontent.com/u/128437470?v=4" width="150" height="150"/> <br> @SSong-sh](https://github.com/SSong-sh) | [<img src="https://avatars.githubusercontent.com/u/72927363?v=4" width="150" height="150"/> <br> @jjjub](https://github.com/jjjub) | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> <br> @VVjD](https://github.com/VVjD)  | [<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> <br> @sungken](https://github.com/sungken) |
 
 </div>
 
@@ -92,14 +92,16 @@
 - 기능
   - 로그인/로그아웃, 부품 재고 파악 및 발주, 생산 목표량 입력 및 수정, 생산 관리/재고 확인
 
-### 지성근
-
-- 기능
-  
-  - 회원가입, 주문서 확인 및 배정/배송
 
 ### 정혜정
 
 - 기능
   
   - 메인화면, 개인정보 조회 및 수정, 공지사항 확인/공지사항 관리, 대리점 관리, 주문서 관리
+
+
+### 지성근
+
+- 기능
+  
+  - 회원가입, 주문서 확인 및 배정/배송
