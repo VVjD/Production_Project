@@ -1,53 +1,105 @@
-#Production Management
-커밋 규칙
+# 🏭 자동차 제조업 통합 관리 시스템
 
-출처: https://xtring-dev.tistory.com/entry/Git-규칙적인-Commit-메세지로-개발팀-협업하기-👾 [xtring.dev:티스토리]<br>
-출처 : https://junhyunny.github.io/information/github/git-commit-message-rule/<br>
+> 자동차를 생산하고 유통하는 과정을 효율적으로 관리하기 위한 프로그램으로 부서와 직급을 나눠 기능을 수행합니다. 회사 내부의 전산업무인 회원관리, 인사관리, 기자재관리 기능을 제공합니다.
 
-<커밋 메세지 구조><br>
-$ <type>(<scope>): <subject>    -- 헤더<br>
-  <BLANK LINE>                  -- 빈 줄
-  <body>                        -- 본문<br>
-  <BLANK LINE>                  -- 빈 줄<br>
-  <footer>                      -- 바닥 글<br>
+<br>
 
-<type><br>
-feat : 새로운 기능에 대한 커밋<br>
-fix : 기능 수정에 대한 커밋<br>
-build : 빌드 관련 파일 수정에 대한 커밋<br>
-chore : 그 외 자잘한 수정에 대한 커밋(rlxk qusrud)<br>
-ci : CI 관련 설정 수정에 대한 커밋<br>
-docs : 문서 수정에 대한 커밋<br>
-style : 코드 스타일 혹은 포맷 등에 관한 커밋<br>
-refactor : 코드 리팩토링에 대한 커밋<br>
-test : 테스트 코드 수정에 대한 커밋<br>
+- 개발 기간 : 2024/01/31 ~ 2024/02/07
+
+- 개발 인원 : 4명
+
+<br>
+
+## 개발 환경
+
+**IDE**   
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+
+**SKILL**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 
 
-제목과 본문을 빈 행으로 구분합니다.<br>
-제목을 50글자 이내로 제한합니다.<br>
-제목의 첫 글자는 대문자로 작성합니다.<br>
-제목의 끝에는 마침표를 넣지 않습니다.<br>
-제목은 명령문으로! 과거형을 사용하지 않습니다.<br>
-본문의 각 행은 72글자 내로 제한합니다.<br>
-어떻게 보다는 무엇과 왜를 설명합니다.<br>
+**Collaboration Tools**  
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 
+<br>
 
-<footer><br>
-선택 사항이므로 모든 커밋에 작성할 필요는 없습니다.<br>
-이슈를 추적하기 위한 ID를 추가할 때 사용합니다.<br>
-해결 - 해결한 이슈 ID<br>
-관련 - 해당 커밋에 관련된 이슈 ID<br>
-참고 - 참고할만한 이슈 ID<br>
+## 순서도
 
-해결: #123<br>
-관련: #321<br>
-참고: #222<br>
+<p align="center">
+<img width="80%" alt="순서도" src="https://github.com/Juub2/Production_Project/assets/128907052/5602c898-89b0-48f3-aa06-da4118985172">
+</p>
 
-<예시><br>
-Feat: 관심지역 알림 ON/OFF 기능 추가(#123)<br>
+<br>
 
-시군구의 알림을 각각 ON/OFF 할 수 있도록 기능을 추가함<br>
- 
-opnion0055: 구분 코드<br>
+## ERD
 
-해결: close #123<br>
+<p align="center">
+<img width="80%" alt="ㄸ" src="https://github.com/Juub2/Production_Project/assets/128907052/99cecc8b-982d-4285-b1d9-8cec8009f70d">
+</p>
+
+<br>
+
+## 상세 기능
+
+**관리자**
+
+1. 재고 조회
+
+2. 근태 조회
+
+3. 공지사항 등록 및 수정
+
+4. 주문서 확인 및 배정/배송 구역 관리
+
+5. 생산 관리
+
+**사원**
+
+1. 공지사항 확인
+
+2. 근태 등록
+
+3. 배송지 조회 및 유통
+
+4. 부품 재고 파악 및 발주
+
+**대리점**
+
+1. 주문서 추가
+
+2. 주문서 수정 및 삭제
+
+<br>
+
+## 팀원 소개
+<div align="center">
+  
+| 송성혜                                                                                                                                       | 윤준섭                                                                                                                                | 지성근                                                                                                                                    | 정혜정                                                                                                                               |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| [<img src="https://avatars.githubusercontent.com/u/128437470?v=4" width="150" height="150"/> <br> @SSong-sh](https://github.com/SSong-sh) | [<img src="https://avatars.githubusercontent.com/u/72927363?v=4" width="150" height="150"/> <br> @jjjub](https://github.com/jjjub) | [<img src="https://avatars.githubusercontent.com/u/37370079?v=4" width="150" height="150"/> <br> @sungken](https://github.com/sungken) | [<img src="https://avatars.githubusercontent.com/u/128907052?v=4" width="150" height="150"/> <br> @VVjD](https://github.com/VVjD) |
+
+</div>
+
+### 송성혜
+
+- 기능
+  - 아이디/비밀번호 찾기, 근태 등록 및 조회, 주문서 확인 및 배정/배송 구역관리, 배송지 조회 및 유통, 사원 관리(입사, 퇴사)
+
+### 윤준섭
+
+- 기능
+  - 로그인/로그아웃, 부품 재고 파악 및 발주, 생산 목표량 입력 및 수정, 생산 관리/재고 확인
+
+### 지성근
+
+- 기능
+  
+  - 회원가입, 주문서 확인 및 배정/배송
+
+### 정혜정
+
+- 기능
+  
+  - 메인화면, 개인정보 조회 및 수정, 공지사항 확인/공지사항 관리, 대리점 관리, 주문서 관리
